@@ -1,6 +1,5 @@
 package controlador;
 
-import modelo.Juego;
 import vista.JuegoPanel;
 import javax.swing.*;
 import java.awt.event.*;
